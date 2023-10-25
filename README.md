@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NolanKoblischke
 - 👀 I’m interested in Astrophysics and Machine Learning
-- 🌱 I’m currently learning Physics and Computer Science
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nolankob/)
+- 🌱 I’m currently doing a PhD in Astrophysics at the University of Toronto
 
 <!---
 NolanKoblischke/NolanKoblischke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
